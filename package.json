@@ -1,0 +1,28 @@
+{
+  "name": "valinor-framework",
+  "version": "1.0.0",
+  "description": "NodeJS Web Framework based on HapiJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeBarrosCruz/valinor-framework.git"
+  },
+  "keywords": [
+    "valinor",
+    "hapijs",
+    "framework",
+    "coverage"
+  ],
+  "author": "FelipeBarrosCruz",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FelipeBarrosCruz/valinor-framework/issues"
+  },
+  "homepage": "https://github.com/FelipeBarrosCruz/valinor-framework#readme",
+  "dependencies": {
+    "valinor-framework-core": "git+https://github.com/FelipeBarrosCruz/valinor-framework-core.git"
+  }
+}
